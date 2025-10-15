@@ -45,3 +45,9 @@ A high-performance object detection system for Raspberry Pi 4B that detects 4 co
   - torch, torchvision
 
 
+## Results Obtained
+
+<img width="2592" height="1944" alt="image" src="https://github.com/user-attachments/assets/e57f79bb-149d-48f0-9742-621859e9348f" />
+
+
+<img width="3000" height="2250" alt="image" src="https://github.com/user-attachments/assets/d16057de-9fdd-4434-bc59-0954a42380ba" />
